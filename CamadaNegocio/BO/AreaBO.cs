@@ -9,7 +9,7 @@ using CamadaNegocio.DAO;
 namespace CamadaNegocio.BO
 {
     /// <summary>
-    /// Classe que faz a validação dos dados da área.
+    /// Classe que faz
     /// </summary>
     public class AreaBO
     {
