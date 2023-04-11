@@ -17,7 +17,7 @@
         <div class="col-md-4 col-md-offset-4">
             <div class="panel panel-success">
                 <div class="panel-heading">
-                    <h2 class="panel-title text-center">Autenticação de Usuário</h2>
+                    <h2 class="panel-title text-center"> Usuário</h2>
                 </div>
                 <div class="panel-body">
                     <div class="row">
